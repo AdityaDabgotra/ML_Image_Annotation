@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Bottle",
+    "color": "#FF0000",
+    "attributes": []
+  },
+  {
+    "name": "Bottle Cap",
+    "color": "#FF9900",
+    "attributes": []
+  },
+  {
+    "name": "Wrapper",
+    "color": "#FFFF00",
+    "attributes": []
+  },
+  {
+    "name": "Polythene",
+    "color": "#00CC00",
+    "attributes": []
+  },
+  {
+    "name": "Shoe, Jacket",
+    "color": "#0099FF",
+    "attributes": []
+  },
+  {
+    "name": "Foam",
+    "color": "#FF66FF",
+    "attributes": []
+  }
+]

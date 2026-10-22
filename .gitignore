@@ -1,0 +1,31 @@
+group57
+__pycache__
+venv
+# ---------- Python ----------
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# ---------- Model weights (ultralytics auto-downloads these on first run) ----------
+*.pt
+*.pth
+*.onnx
+
+# ---------- Dataset images (course-provided, re-downloadable from Drive) ----------
+group57/
+*.jpg
+*.jpeg
+*.zip
+
+# ---------- Regenerable outputs ----------
+rgb_images/                  # python make_masks.py ...
+work/instances_default.json  # python export_coco.py
+work/overlays/
+
+# ---------- OS / editor ----------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
